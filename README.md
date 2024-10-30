@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vgreg09
-- 👀 Physics
+- 👀 Physicist, Political Scientist
 
 <!---
 Ki ezeket a kódokat megnyitja, hagyjon fel minden reménnyel
