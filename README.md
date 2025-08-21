@@ -3,8 +3,6 @@
 - ❤️ Astrophysics, Orbital Mechanics etc..
 - Currently private stuff
 
-<!---
-Ki ezeket a kódokat megnyitja, hagyjon fel minden reménnyel
+"Ki ezeket a kódokat megnyitja, hagyjon fel minden reménnyel
 
-A dokumentáció elfogyott, optimalizáció nem is volt
---->
+A dokumentáció elfogyott, optimalizáció nem is volt"
